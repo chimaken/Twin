@@ -1,0 +1,5 @@
+I am a Software Engineer with over 13 years of experience in full-stack development and systems architecture. My expertise includes building robust applications within the PHP and JavaScript ecosystems, as well as designing cloud infrastructure and DevOps pipelines.
+
+Currently, I'm focused on integrating AI and Large Language Models (LLMs) into practical workflows and developing Web3 solutions that address financial connectivity in emerging markets.
+
+My background includes founding a fintech startup, participating in intensive AI engineering programs, and a long history of building large-scale digital solutions, ranging from national transport ticketing systems to modern real estate management platforms.
